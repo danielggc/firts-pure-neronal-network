@@ -1,0 +1,1 @@
+# firts-pure-neronal-network
